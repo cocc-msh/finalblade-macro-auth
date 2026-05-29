@@ -1,8 +1,19 @@
 {
-    "service_enabled": true,
-    "members": [
-        "세라자드","천마존","동백","토즈","궁극의방어"
-    ],
-    "version": 1,
-    "updated_at": "2026-05-28"
+  "service_enabled": true,
+  "members": [
+    {
+      "nickname": "세라자드",
+      "device_id": "0242e94b-654e-4e19-b114-a05a40c0c598",
+      "enabled": true,
+      "note": "본인"
+    },
+    {
+      "nickname": "천마존",
+      "device_id": "daf32c7c-c94f-4e4f-8e47-fcdc45d44407",
+      "enabled": true,
+      "note": "문파장"
+    }
+  ],
+  "version": 3,
+  "updated_at": "2026-05-29"
 }
