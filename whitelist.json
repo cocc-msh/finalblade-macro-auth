@@ -30,6 +30,18 @@
       "device_id": "",
       "enabled": false,
       "note": "문파원"
+    },
+    {
+      "nickname": "몬이",
+      "device_id": "d8b895bb-a9e6-46fe-bf5e-fdc015069588",
+      "enabled": true,
+      "note": "문파원"
+    },
+    {
+      "nickname": "배신자",
+      "device_id": "48120094-631d-4d9c-be59-1cf26d845190",
+      "enabled": true,
+      "note": "문파원"
     }
   ],
   "version": 3,
