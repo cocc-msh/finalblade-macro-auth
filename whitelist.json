@@ -12,6 +12,24 @@
       "device_id": "daf32c7c-c94f-4e4f-8e47-fcdc45d44407",
       "enabled": true,
       "note": "문파장"
+    },
+    {
+      "nickname": "냉오리",
+      "device_id": "",
+      "enabled": false,
+      "note": "문파원"
+    },
+    {
+      "nickname": "김똥",
+      "device_id": "",
+      "enabled": false,
+      "note": "문파원"
+    },
+    {
+      "nickname": "Victor",
+      "device_id": "",
+      "enabled": false,
+      "note": "문파원"
     }
   ],
   "version": 3,
