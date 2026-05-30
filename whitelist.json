@@ -9,7 +9,7 @@
     },
     {
       "nickname": "천마존",
-      "device_id": ["daf32c7c-c94f-4e4f-8e47-fcdc45d44407"],
+      "device_id": "daf32c7c-c94f-4e4f-8e47-fcdc45d44407",
       "enabled": true,
       "note": "문파장"
     },
