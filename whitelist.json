@@ -44,10 +44,10 @@
       "note": "문파원"
     },
     {
-      "nickname": "토즈",
-      "device_id": "48120094-631d-4d9c-be59-1cf26d845190",
-      "enabled": true,
-      "note": "장로"
+      "nickname": "아이온짱",
+      "device_id": "",
+      "enabled": false,
+      "note": "문파원"
     }
   ],
   "version": 3,
