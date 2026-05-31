@@ -45,8 +45,8 @@
     },
     {
       "nickname": "아이온짱",
-      "device_id": "",
-      "enabled": false,
+      "device_id": "68cf7eb3-29d6-49ca-a8b9-1814be88e4ac",
+      "enabled": true,
       "note": "문파원"
     }
   ],
