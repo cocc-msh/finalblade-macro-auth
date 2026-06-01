@@ -27,7 +27,7 @@
     },
     {
       "nickname": "Victor",
-      "device_id": "205bba3e-5e8c-4470-964a-ba9e3abcb2a5",
+      "device_id": ["205bba3e-5e8c-4470-964a-ba9e3abcb2a5","c7407055-83d3-474f-9814-7466822f0de5"],
       "enabled": true,
       "note": "문파원"
     },
