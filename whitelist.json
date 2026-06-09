@@ -48,8 +48,14 @@
       "device_id": "68cf7eb3-29d6-49ca-a8b9-1814be88e4ac",
       "enabled": true,
       "note": "문파원"
+    },
+    {
+      "nickname": "여히땅1",
+      "device_id": "739a8f6a-5bb0-4f0b-a622-a01938210a79",
+      "enabled": true,
+      "note": "문파원"
     }
   ],
-  "version": 3,
-  "updated_at": "2026-05-29"
+  "version": 4,
+  "updated_at": "2026-06-09"
 }
