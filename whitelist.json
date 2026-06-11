@@ -54,8 +54,14 @@
       "device_id": "739a8f6a-5bb0-4f0b-a622-a01938210a79",
       "enabled": true,
       "note": "문파원"
+    },
+    {
+      "nickname": "청휴",
+      "device_id": "8d835efe-0dff-4b9e-9080-6f47caf58ed6",
+      "enabled": true,
+      "note": "문파원"
     }
   ],
-  "version": 4,
-  "updated_at": "2026-06-09"
+  "version": 5,
+  "updated_at": "2026-06-12"
 }
