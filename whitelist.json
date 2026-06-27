@@ -66,6 +66,12 @@
       "device_id": "99ab6e7e-068a-4c16-bd3c-5fb7f96fc2be",
       "enabled": true,
       "note": "장로"
+    },
+    {
+      "nickname": "토즈",
+      "device_id": "1395ac8a-bbae-4d88-91fa-a9b69e4aa575",
+      "enabled": true,
+      "note": "장로"
     }
   ],
   "version": 11,
