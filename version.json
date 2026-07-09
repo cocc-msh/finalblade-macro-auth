@@ -1,6 +1,6 @@
 {
   "latest_version": "2.3",
-  "download_url": "https://github.com/cocc-msh/finalblade-macro-auth/releases/download/v2.2/FinalbladeMacro-v2.2.zip",
+  "download_url": "https://github.com/cocc-msh/finalblade-macro-auth/releases/download/v2.3/FinalbladeMacro-v2.3.zip",
   "sha256": "B4F30ECECB9B7DE0B3B908EC6AB2FB18A9EBB49EEBAEB6F22FDB610EDD062DC8",
   "release_date": "2026-07-15",
   "changelog": "- 프리즈 감지 자동 재시작 (5분 임계)\n- 이벤트전 자동화 추가\n- BlueStacks 호환 (에뮬레이터 선택)\n- 진주 부족 팝업 감지 개선\n- 20-9 스테이지 추가\n- 수련 주기 2h33m 로 조정 (안전 마진)",
