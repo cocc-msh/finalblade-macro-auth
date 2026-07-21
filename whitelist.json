@@ -39,7 +39,7 @@
     },
     {
       "nickname": "배신자",
-      "device_id": "48120094-631d-4d9c-be59-1cf26d845190",
+      "device_id": ["48120094-631d-4d9c-be59-1cf26d845190","c49329df-4103-4a40-81f7-98d5e0108f4f"],
       "enabled": true,
       "note": "문파원"
     },
