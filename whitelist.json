@@ -56,12 +56,6 @@
       "note": "문파원"
     },
     {
-      "nickname": "청휴",
-      "device_id": "8d835efe-0dff-4b9e-9080-6f47caf58ed6",
-      "enabled": false,
-      "note": "문파원"
-    },
-    {
       "nickname": "궁극의방어",
       "device_id": "99ab6e7e-068a-4c16-bd3c-5fb7f96fc2be",
       "enabled": true,
@@ -80,6 +74,6 @@
       "note": "문파원"
     }
   ],
-  "version": 13,
-  "updated_at": "2026-06-29"
+  "version": 12,
+  "updated_at": "2026-07-28"
 }
