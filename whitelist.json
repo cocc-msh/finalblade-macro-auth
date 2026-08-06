@@ -72,8 +72,14 @@
       "device_id": "6a29724a-c802-4b31-864c-61744ab71fbf",
       "enabled": true,
       "note": "문파원"
+    },
+    {
+      "nickname": "전탱크",
+      "device_id": "6a29724a-c802-4b31-864c-61744ab71fbf",
+      "enabled": false,
+      "note": "문파원"
     }
   ],
-  "version": 12,
-  "updated_at": "2026-07-28"
+  "version": 13,
+  "updated_at": "2026-08-06"
 }
