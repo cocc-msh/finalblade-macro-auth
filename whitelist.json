@@ -38,12 +38,6 @@
       "note": "문파원"
     },
     {
-      "nickname": "배신자",
-      "device_id": ["48120094-631d-4d9c-be59-1cf26d845190","c49329df-4103-4a40-81f7-98d5e0108f4f"],
-      "enabled": true,
-      "note": "문파원"
-    },
-    {
       "nickname": "아이온짱",
       "device_id": "68cf7eb3-29d6-49ca-a8b9-1814be88e4ac",
       "enabled": true,
@@ -80,6 +74,6 @@
       "note": "문파원"
     }
   ],
-  "version": 13,
-  "updated_at": "2026-08-06"
+  "version": 12,
+  "updated_at": "2026-08-17"
 }
