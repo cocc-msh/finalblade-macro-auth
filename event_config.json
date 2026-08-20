@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "week_label": "8월 3주차 (8/14~8/20)",
+  "updated_at": "2026-08-14",
+  "battles_per_node": 10,
+  "chapters": [
+    { "chapter": 2,  "nodes": ["gangjeok", "boss"] },
+    { "chapter": 3,  "nodes": ["gangjeok", "boss"] },
+    { "chapter": 5,  "nodes": ["gangjeok", "boss"] },
+    { "chapter": 14, "nodes": ["gangjeok"] },
+    { "chapter": 16, "nodes": ["boss"] }
+  ]
+}
