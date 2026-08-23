@@ -14,12 +14,6 @@
       "note": "문파장"
     },
     {
-      "nickname": "냉오리",
-      "device_id": "45e93dd9-7375-492c-97a3-86ba7c0b309f",
-      "enabled": true,
-      "note": "문파원"
-    },
-    {
       "nickname": "김똥",
       "device_id": "f06cfc73-716a-490e-a368-43760fe7ef7e",
       "enabled": true,
@@ -74,6 +68,6 @@
       "note": "문파원"
     }
   ],
-  "version": 12,
-  "updated_at": "2026-08-17"
+  "version": 11,
+  "updated_at": "2026-08-23"
 }
