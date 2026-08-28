@@ -15,7 +15,7 @@
     },
     {
       "nickname": "김똥",
-      "device_id": "f06cfc73-716a-490e-a368-43760fe7ef7e",
+      "device_id": ["f06cfc73-716a-490e-a368-43760fe7ef7e","f7dff163-8a12-46fd-8874-3c8da8c543d8"],
       "enabled": true,
       "note": "문파원"
     },
