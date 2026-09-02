@@ -4,8 +4,8 @@
   "updated_at": "2026-08-31",
   "fund_min": 3000,
   "slots": [
-    { "buff": "suryeon", "start": "09:00", "end": "15:00" },
-    { "buff": "ganghwa", "start": "15:00", "end": "21:00" },
-    { "buff": "geumhwa", "start": "21:00", "end": "03:00" }
+    { "buff": "suryeon", "start": "09:10", "end": "15:10" },
+    { "buff": "ganghwa", "start": "15:20", "end": "21:20" },
+    { "buff": "geumhwa", "start": "21:30", "end": "03:30" }
   ]
 }
