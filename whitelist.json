@@ -60,6 +60,12 @@
       "device_id": "ba87fa8d-56f6-4450-995b-3fed9a5fdfed",
       "enabled": true,
       "note": "문파원"
+    },
+    {
+      "nickname": "개장수",
+      "device_id": "689c6d24-9ac5-4a20-9198-1aee6849a36f",
+      "enabled": true,
+      "note": "문파원"
     }
   ],
   "version": 10,
