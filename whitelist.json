@@ -60,14 +60,8 @@
       "device_id": "322a9b7c-36b0-412e-9759-17cee240bd43",
       "enabled": true,
       "note": "문파원"
-    },
-    {
-      "nickname": "개장수",
-      "device_id": "689c6d24-9ac5-4a20-9198-1aee6849a36f",
-      "enabled": true,
-      "note": "문파원"
     }
   ],
-  "version": 11,
-  "updated_at": "2026-09-02"
+  "version": 10,
+  "updated_at": "2026-09-13"
 }
