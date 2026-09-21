@@ -44,12 +44,6 @@
       "note": "장로"
     },
     {
-      "nickname": "토즈",
-      "device_id": "1395ac8a-bbae-4d88-91fa-a9b69e4aa575",
-      "enabled": true,
-      "note": "장로"
-    },
-    {
       "nickname": "큐티푸우",
       "device_id": "6a29724a-c802-4b31-864c-61744ab71fbf",
       "enabled": true,
@@ -62,6 +56,6 @@
       "note": "문파원"
     }
   ],
-  "version": 10,
-  "updated_at": "2026-09-13"
+  "version": 9,
+  "updated_at": "2026-09-21"
 }
